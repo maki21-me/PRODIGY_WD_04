@@ -552,13 +552,20 @@ h3 {
 .contact-form button {
   background-color: #070c35;
   color: #fff;
-  text-align: center;
   border: none;
+  height: 40px;
   padding: 1px 24px;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
   font-size: 1.3rem;
+  
+  /* Ensure proper centering */
+  display: inline-block; /* or 'block' if you want full width */
+  text-align: center;
+  line-height: 40px; /* Match height for vertical centering */
+  width: 100%; /* Optional: if you want full width */
+  box-sizing: border-box; /* Include padding in width calculation */
 }
  
 .contact-form button:hover {
