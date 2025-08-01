@@ -32,7 +32,6 @@ Feel free to explore the repositories and provide feedback!
 I'm always open to collaborating on exciting projects or discussing new opportunities. You can reach me at:
 
 - Email: [meklitanteneh58@gmail.com]
-- Portfolio: [https://maki21-me.github.io/Portfolio/about.html]
 - GitHub: [maki21-me]
 
  
